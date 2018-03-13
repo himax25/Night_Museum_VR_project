@@ -21,7 +21,7 @@ Download Skyboxes materials from Unity Asset Store;
 Downloaded sound FX from Unity Asset Store;
 (1) Footsteps Sounds Carpet Pack, Audio/Sound FX, Profi Developers
 Download Media contents from internet.
-(1) Space Ship @ Earth, https://pixabay.com/ko/videos/%EC%9A%B0%EC%A3%BC%EC%84%A0-%EC%9C%84%EC%84%B1-%EB%B0%B0%ED%8F%AC-%EA%B6%A4%EB%8F%84-%EB%B6%84%EC%9C%84%EA%B8%B0-%ED%83%90%EC%82%AC-nasa%EB%8A%94-%EB%A1%9C%EC%BC%93-241/ 
+(1) NASA Earth Observing Fleet, https://svs.gsfc.nasa.gov/4274 
 (2) Space Shuttle lanch @ NASA, http://www.esa.int/spaceinvideos/Videos/2011/07/STS-135_Space_Shuttle_Launch
 (3) Mars Science Laboratory (Curiosity Rover) Mission Animation, https://www.jpl.nasa.gov/video/details.php?id=979 
 (4) Cinema Space Tribute, https://vimeo.com/113142476, 
