@@ -27,7 +27,7 @@ There are 5 stations in the Museum. I initially desinged each station with the f
 * Station 4. **Project MARS**
 * Station 5. **Cinema Hole**
 
-![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/Design_Rev1.JPG)
+![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/Design_Rev1.jpg)
 
 During building up Solar System's animation, such animation was too big to fit into the station 1 layout in 
 the Museum. I revised the initial design with enhanced the layout with the order of each station as the followings:
