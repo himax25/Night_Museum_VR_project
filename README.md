@@ -47,7 +47,7 @@ any video by clicking the screen in each station.
 ## Station 1. **Satellite with EARTH**
 There is a Satellite showcase with a media to play in the Station 1. The user is able to play and pause the media anytime.
 * The name of video is "NASA Earth Observing Feet" from NASA. [here](https://svs.gsfc.nasa.gov/4274)
-> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st1.JPG)
+> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/ss1.JPG)
 
 ## Station 2. **Space Shuttle**
 There is a Space Shuttle animation showcase with a media to play in the Station 2. The user is able to play and pause the media anytime.
