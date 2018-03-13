@@ -69,7 +69,7 @@ There is a Space Scene with media to play in the the Station 5. There is another
 * The name of video is "Solar System 101" from National Geographic.
 > ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st5.JPG)
 
-## **Autor of this coding**
+## **Author of this coding**
 * Hyo Lee, linkedin [here](https://www.linkedin.com/in/hyo-max-lee-61241b13/)
 * Unity 2017.2.0f3, GVR Unity SDK v1.60.0
 * March 13, 2018.
