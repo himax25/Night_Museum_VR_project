@@ -44,7 +44,7 @@ The user is able to navigate any station in the Aerospace Museum by following wa
 the user to move from a station to another station after watching videoes. The user is able to play and pause 
 any video by clicking the screen in each station.
 
-# Breakdown of eacg station
+# Breakdown of each station
 ## Station 1. **Satellite with EARTH**
 There is a Satellite showcase with a media to play in the Station 1. The user is able to play and pause the media anytime.
 * The name of video is "Solar System 101" from NASA.
