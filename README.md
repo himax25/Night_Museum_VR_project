@@ -68,7 +68,7 @@ There is a Theater Scene with a media to play in the Station 4. The user is able
 ## Station 5. **Solar System**, The animation will perform at the sky of the station 5.
 There is a Space Scene with media to play in the the Station 5. There is another Solar System animation at the sky of the station.
 * The name of video is "Solar System 101" from National Geographic.
-> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st3.JPG)
+> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st5.JPG)
 
 ## **Autor of this coding**
 * Hyo Lee, linkedin [here](https://www.linkedin.com/in/hyo-max-lee-61241b13/)
