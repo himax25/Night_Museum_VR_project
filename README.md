@@ -46,7 +46,7 @@ any video by clicking the screen in each station.
 # Breakdown of each station
 ## Station 1. **Satellite with EARTH**
 There is a Satellite showcase with a media to play in the Station 1. The user is able to play and pause the media anytime.
-* The name of video is "Solar System 101" from NASA. [here](https://pixabay.com/ko/videos/%EC%9A%B0%EC%A3%BC%EC%84%A0-%EC%9C%84%EC%84%B1-%EB%B0%B0%ED%8F%AC-%EA%B6%A4%EB%8F%84-%EB%B6%84%EC%9C%84%EA%B8%B0-%ED%83%90%EC%82%AC-nasa%EB%8A%94-%EB%A1%9C%EC%BC%93-241)
+* The name of video is "NASA Earth Observing Feet" from NASA. [here](https://svs.gsfc.nasa.gov/4274)
 > ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st1.JPG)
 
 ## Station 2. **Space Shuttle**
