@@ -3,7 +3,7 @@ This is 5th project for Udacity's VR Nanodegree. This mobile virtual reality exp
 of 'Space' obtained the basic idea and knowledge from the VR application company such as FUERO Games 
 company with Samsung VR. Base on the research on VR companies and applications, the main theme of my 
 Night Museum VR project is Hologram based VR experience to get educational knowledge from Solar System.
-![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/Screenshot_Museum.jpg)
+![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/Screenshot_Museum.png)
 
 ## Night Museum: providing 5 kind topics based information booths with VR.
 This is an Aerospace Museum consists of 5 kinds of stations. Each station provides educational information
