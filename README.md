@@ -57,6 +57,10 @@ There is a Satellite showcase with a media to play in the Station 1. The user is
 * The name of video is "NASA Earth Observing Feet" from NASA. [here](https://svs.gsfc.nasa.gov/4274)
 > ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/ss1.JPG)
 
+There is a screenshot poster with audio narration contents at the across the Station 1 entrance regarding the information of VR application. The user is able to listen to the narration by clicking on the poster.
+This company, Privy.com, provides Visualization experience with VR application. 
+> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/VR_company1.JPG)
+
 ## Station 2. **Space Shuttle**
 There is a Space Shuttle animation showcase with a media to play in the Station 2. The user is able to play and pause the media anytime.
 * The name of video is "Space Ship" from NASA. [here](http://www.esa.int/spaceinvideos/Videos/2011/07/STS-135_Space_Shuttle_Launch)
