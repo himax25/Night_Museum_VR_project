@@ -77,6 +77,12 @@ There is a Space Scene with media to play in the the Station 5. There is another
 * The name of video is "Solar System 101" from National Geographic. [here](https://mobwona.mobi/video/solar-system-101-national-geographic/libKVRa01L8)
 > ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st5.JPG)
 
+# Conclusion
+This VR Museum consists of several videos and some Unity-particle effect based animation to demonstrate how to use VR in the education industry. It will be a nice VR educational material if there is a plug-in function for 3D VR based internet browser with this VR tool later. 
+
+## Next steps
+The 2nd edition of this VR Museum will have 360 VR View station to be added.
+
 ## **Author of this coding**
 * Hyo Lee, linkedin [here](https://www.linkedin.com/in/hyo-max-lee-61241b13/)
 * Unity 2017.2.0f3, GVR Unity SDK v1.60.0
