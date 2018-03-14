@@ -46,8 +46,8 @@ any video by clicking on the screen at each station.
 # User testing, feedbacking and changes
 ## User testing for this VR Museum navigation
 I asked the 1st user to play this VR Museum and get some feedback from the user after trying this VR.
-* ** Feedback:** the user had unexpected media playing in the middle of movement with waypoints.
-***Enhancing:** I found there is the wrong mechanism of detection Raycaster with the anti-blocking 3D object. I have updated Bocking Object value in Graphic Raycaster at all media playing Canvas  from "None" to "Three D" as the following: 
+* **Feedback:** the user had unexpected media playing in the middle of movement with waypoints.
+* **Enhancing:** I found there is the wrong mechanism of detection Raycaster with the anti-blocking 3D object. I have updated Bocking Object value in Graphic Raycaster at all media playing Canvas  from "None" to "Three D" as the following: 
 
 ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/update1.JPG)
 
