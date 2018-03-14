@@ -6,8 +6,8 @@ Night Museum VR project is Hologram based VR experience to get educational knowl
 ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/Screenshot_Museum.png)
 
 ## Night Museum: providing 5 kind topics based information booths with VR.
-This is an Aerospace Museum consists of 5 kinds of stations. Each station provides educational information
-regarding Solar systems with 8 planets. 
+This is an Aerospace Museum consists of 5 kinds of topic-based stations. Each station provides some educational
+information regarding 8 planets in the Solar syetem. 
 ![youtubelink](https://github.com/himax25/Night_Museum_VR_project/blob/master/VR_YouTubu.JPG)[For recording here](https://youtu.be/aDuxRTC2riU)
 
 # Design and Development
@@ -39,9 +39,9 @@ the Museum. I revised the initial design with enhanced the layout with the order
 ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/Design_Rev2.jpg)
 
 ## Story of this process
-The user is able to navigate any station in the Aerospace Museum by following waypoints. These waypoints take 
+The user is able to move around any station in the Aerospace Museum by following waypoints. These waypoints take 
 the user to move from a station to another station after watching videoes. The user is able to play and pause 
-any video by clicking the screen in each station.
+any video by clicking on the screen at each station.
 
 # Breakdown of each station
 ## Station 1. **Satellite with EARTH**
