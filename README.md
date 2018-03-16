@@ -7,7 +7,7 @@ Night Museum VR project is Hologram based VR experience to get educational knowl
 
 ## Night Museum: providing 5 kind topics based information booths with VR.
 This is an Aerospace Museum consists of 5 kinds of topic-based stations. Each station provides some educational
-information regarding 8 planets in the Solar syetem. 
+information regarding 8 planets in the Solar system. 
 ![youtubelink](https://github.com/himax25/Night_Museum_VR_project/blob/master/VR_YouTubu.JPG)[For playing Youtubu video here](https://youtu.be/g_r-LVPNa4I)
 
 # Design and Development
