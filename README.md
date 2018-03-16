@@ -76,7 +76,7 @@ There is a Theater Scene with a media to play in the Station 4. The user is able
 * The name of video is Cinema Space Tribute" short movie. [here](https://vimeo.com/113142476)
 > ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st4.JPG)
 
-## Station 5. **Solar System**, The animation will perform at the sky of the station 5.
+## Station 5. **Solar System**
 There is a Space Scene with media to play in the the Station 5. There is another Solar System animation at the sky of the station.
 * The name of video is "Solar System 101" from National Geographic. [here](https://mobwona.mobi/video/solar-system-101-national-geographic/libKVRa01L8)
 > ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st5.JPG)
