@@ -15,7 +15,7 @@ information regarding 8 planets in the Solar syetem.
 I assume the target audience of this museum VR user, as the followings:
 * **Hilary Lee**, 12, a Girl, Middle School student.
 > Hilary is very excited to play a mobile game at these days.Especially she loves to learn something from VR. 
-  She thinks it is easy to understand something both unvisual and untouchable stuff related information thru 
+  She thinks it is easy to understand something both none-visual and untouchable stuff related information thru 
   VR clearly sometimes.
   
 ## Each station layout with UI sketches
