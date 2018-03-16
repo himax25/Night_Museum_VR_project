@@ -19,7 +19,7 @@ I assume the target audience of this museum VR user, as the followings:
   VR clearly sometimes.
   
 ## Each station layout with UI sketches
-There are 5 stations in the Museum. I initially desinged each station with the following layout order: 
+There are 5 stations in the Museum. I initially designed each station with the following layout order: 
 * Station 1. **Solar System**
 * Station 2. **Satellite with EARTH**
 * Station 3. **Space Shuttle**
