@@ -43,7 +43,7 @@ The user is able to move around any station in the Aerospace Museum by following
 the user to move from a station to another station after watching videoes. The user is able to play and pause 
 any video by clicking on the screen at each station.
 
-# User testing, feedbacking and changes
+# User testing, feedback and changes
 ## User testing for this VR Museum navigation
 I asked the 1st user to play this VR Museum and get some feedback from the user after trying this VR.
 * **Feedback:** the user had unexpected media playing in the middle of movement with waypoints.
