@@ -36,7 +36,7 @@ the Museum. I revised the initial design with enhanced the layout with the order
 * Station 4. **Cinema Hole**
 * Station 5. **Solar System**, The animation will perform at the sky of the station 5.
 
-![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/Design_Rev2.jpg)
+![screenshot](https://github.com/himax25/Night_Museum_VR_project/blob/master/Design_Rev2.jpg)
 
 ## Story of this process
 The user is able to move around any station in the Aerospace Museum by following waypoints. These waypoints take 
@@ -49,7 +49,7 @@ I asked the 1st user to play this VR Museum and get some feedback from the user 
 * **Feedback:** the user had unexpected media playing in the middle of movement with waypoints.
 * **Enhancing:** I found there is the wrong mechanism of detection Raycaster with the anti-blocking 3D object. I have updated Bocking Object value in Graphic Raycaster at all media playing Canvas  from "None" to "Three D" as the following: 
 
-![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/update1.JPG)
+![screenshot](https://github.com/himax25/Night_Museum_VR_project/blob/master/update1.JPG)
 
 # Breakdown of each station
 ## Station 1. **Satellite with EARTH**
@@ -59,27 +59,27 @@ There is a Satellite showcase with a media to play in the Station 1. The user is
 
 There is a screenshot poster with audio narration contents at the across the Station 1 entrance regarding the information of VR application. The user is able to listen to the narration by clicking on the poster.
 This company, Privy.com, provides Visualization experience with VR application. 
-> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/VR_company1.JPG)
+> ![screenshot](https://github.com/himax25/Night_Museum_VR_project/blob/master/VR_company1.JPG)
 
 ## Station 2. **Space Shuttle**
 There is a Space Shuttle animation showcase with a media to play in the Station 2. The user is able to play and pause the media anytime.
 * The name of video is "Space Ship" from NASA. [here](http://www.esa.int/spaceinvideos/Videos/2011/07/STS-135_Space_Shuttle_Launch)
-> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st2.JPG)
+> ![screenshot](https://github.com/himax25/Night_Museum_VR_project/blob/master/st2.JPG)
 
 ## Station 3. **Project MARS**
 There is a MARS ground scene with a media to play in the Station 3. The user is able to play and pause the media anytime.
 * The name of video is "Mars Science Laboratory Mission Animation" from NASA.[here](https://www.jpl.nasa.gov/video/details.php?id=979)
-> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st3.JPG)
+> ![screenshot](https://github.com/himax25/Night_Museum_VR_project/blob/master/st3.JPG)
 
 ## Station 4. **Cinema Hole**
 There is a Theater Scene with a media to play in the Station 4. The user is able to play and pause the media anytime.
 * The name of video is Cinema Space Tribute" short movie. [here](https://vimeo.com/113142476)
-> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st4.JPG)
+> ![screenshot](https://github.com/himax25/Night_Museum_VR_project/blob/master/st4.JPG)
 
 ## Station 5. **Solar System**
 There is a Space Scene with media to play in the the Station 5. There is another Solar System animation at the sky of the station.
 * The name of video is "Solar System 101" from National Geographic. [here](https://mobwona.mobi/video/solar-system-101-national-geographic/libKVRa01L8)
-> ![screenshut](https://github.com/himax25/Night_Museum_VR_project/blob/master/st5.JPG)
+> ![screenshot](https://github.com/himax25/Night_Museum_VR_project/blob/master/st5.JPG)
 
 # Conclusion
 This VR Museum consists of several videos and some Unity-particle effect based animation to demonstrate how to use VR in the education industry. It will be a nice VR educational material if there is a plug-in function for 3D VR based internet browser with this VR tool later. 
